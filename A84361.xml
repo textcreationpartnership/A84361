@@ -1,0 +1,525 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Elixir magnum vitæ: or, the great elixir of life, being the most admirable cordial-drink, and its singular virtues, never before made publick; is now exposed to sale, as the most excellent preservative of humane bodies, for the general good of all persons</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1670-1680</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 23 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84361</idno>
+            <idno type="STC">Wing E525B</idno>
+            <idno type="STC">ESTC R231741</idno>
+            <idno type="EEBO-CITATION">99900020</idno>
+            <idno type="PROQUEST">99900020</idno>
+            <idno type="VID">133242</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A84361)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 133242)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2496:19)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Elixir magnum vitæ: or, the great elixir of life, being the most admirable cordial-drink, and its singular virtues, never before made publick; is now exposed to sale, as the most excellent preservative of humane bodies, for the general good of all persons</title>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1670-1680]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from Wing (CD-ROM edition).</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Medicine --  Formulae, receipts, prescriptions --  Early works to 1800.</term>
+               <term>Medicine, Popular --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Sampled and proofread</change>
+         <change>
+            <date>2009-12</date>
+            <label>Simon Charles</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="text">
+            <pb facs="tcp:133242:1" rendition="simple:additions"/>
+            <pb facs="tcp:133242:1" rendition="simple:additions"/>
+            <pb facs="tcp:133242:2"/>
+            <pb n="1" facs="tcp:133242:2"/>
+            <head>Elixir Magnum Vitae: OR, The Great ELIXIR of LIFE, Being the
+most admirable <hi>Cordial-Drink,</hi> and its ſingular Vir<g ref="char:EOLhyphen"/>tues, never
+before made Publick; is now expoſed to Sale, as the most excellent
+Preſervative of <hi>Humane Bodies,</hi> for the gene<g ref="char:EOLhyphen"/>ral good of all
+Perſons.</head>
+            <div type="introduction">
+               <p>THis Famous ELIXIR VITAE, was firſt brought into
+<hi>England</hi> by a Perſon of Quality, that for many years had travelled
+into moſt parts of the Chriſtian World; who being a Curi<g ref="char:EOLhyphen"/>ous Inſpector
+into Nature, and about Forty years a Stu<g ref="char:EOLhyphen"/>dent in Phyſick, for his own Delight
+and Satisfaction, (but never for Profit or Gain) moſt happily found out this
+<hi>Secret</hi> or <hi>Arcanum,</hi> the on<g ref="char:EOLhyphen"/>ly immediate Helper or Reſtorer
+of Nature; and has freely Adminiſtred the ſame, very frequently to his
+Friends in particular that ſtood in need thereof, as alſo to divers other
+Perſons in his Travels, both Rich and Poor, to his great Commendation; and
+that is that Medicament that he always made uſe of, and called it his
+<hi>Jewel.</hi>
+               </p>
+               <figure>
+                  <figDesc>trademark</figDesc>
+               </figure>
+               <p>And Note, That this <hi>Cordial-Drink,</hi> or <hi>Great
+Elixir,</hi> is generally eſteemed (and highly valued) by all perſons, that
+have tryed it to be the moſt Incomparable, and far exceeding all
+<hi>Drinks</hi> or <hi>Elixirs,</hi> that has hitherto been expoſed to Sale
+in this Nation.</p>
+            </div>
+            <div type="virtues">
+               <pb n="2" facs="tcp:133242:3"/>
+               <head>The Vertues of this <hi>Great ELIXIR of Life,</hi> are
+theſe, <hi>viz.</hi>
+               </head>
+               <p>IT is very prevalent againſt all inveterate pains of the Head,
+and de<g ref="char:EOLhyphen"/>fends the Brain from all <hi>noxious Fumes</hi> that ariſe from a foul
+Stomach, or the defects of the <hi>Spleen,</hi> watry and windy Vapours, which
+cauſe re<g ref="char:EOLhyphen"/>maining un-remov'd occaſions very unwelcome (and ſometimes
+fatal) effects, as the <hi>Vertigo Megrim,</hi> or Giddineſs or Swimming in
+the Head, alſo a Miſt before the Sight, or an uncomfortable Dimneſs in
+the Eyes; in ſome perſons they feel as it were a heavy weight on their
+Heads, o<g ref="char:EOLhyphen"/>thers are ſubject to fall, like thoſe with an <hi>Epilepſy,</hi>
+or much diſcom<g ref="char:EOLhyphen"/>pos'd like thoſe who are <hi>Paraletical;</hi> in others it
+produces Vomiting, and pains in the Head by fits, which is occaſion'd by a
+Coſtive body, but if this <hi>Elixir</hi> be apply'd, it certainly keeps the
+whole body open, and carries off the cauſe of theſe and almoſt
+innumerable other Maladies to admiration. It is moſt excellent in the cure of
+Sore and <hi>Rhumatick</hi> Eeys; for it takes away the internal cauſe, and
+wonderfully ſtrengthens the Sight, it alſo diverts ſharp Rheumes that
+fall upon the Throat and Lungs from the Head; thereby cauſing ſometimes
+<hi>Impoſthumations, Quinſeys,</hi> dry <hi>Coughs,</hi> or
+<hi>Hoarſeneſs;</hi> and in ſhort, ſo much impares the <hi>Lungs,</hi>
+that a ſhortneſs of breath, or <hi>Ptiſick</hi> follows, and in ſome,
+te<g ref="char:EOLhyphen"/>dious and lingering <hi>Conſumptions.</hi>
+               </p>
+               <p>It is infallible in the recovery of thoſe that have loſt
+their <hi>Smelling,</hi> or <hi>Taſting,</hi> it cures <hi>Impoſthumes</hi>
+or Stuffing in the Head, or Noiſe in the Ears occaſioned by cold; it
+preſerves Hearing even to old age, and ve<g ref="char:EOLhyphen"/>ry much ſtrengthens the Memory,
+and comforts the <hi>Animal, Vital,</hi> and <hi>Natural Spirits.</hi>
+               </p>
+               <p>'Tis of excellent operation in procuring a loſt Appetite,
+helps bad <hi>Di<g ref="char:EOLhyphen"/>geſtion,</hi> and the ſtoppage of the <hi>Stomach;</hi>
+and thereby reſtores lan<g ref="char:EOLhyphen"/>guiſhing <hi>Nature</hi> and <hi>Melancoly,</hi>
+drooping <hi>Spirits.</hi> After any long ſick<g ref="char:EOLhyphen"/>neſs it procures a freſh
+quick and lively habit of Body, it powerfully op<g ref="char:EOLhyphen"/>poſes all black, aduſt,
+and complicated Humours, which are the grand Enemies of <hi>Nature,</hi> this
+<hi>Elixir</hi> being frequently taken, draws them out of the <hi>Veins</hi>
+and <hi>Arteries,</hi> and thereby purifies the whole Maſs of Blood. It
+alſo removes all pains from the Heart, and perfectly cures all ſtoppage of
+<hi>Flegm</hi> in ſuch perſons that are frequently in danger of being
+ſtifled in their ſleep for want of breath; it alſo gives eaſe to aged
+perſons in the <hi>Ptiſick,</hi> and infallibly cures thoſe that are
+young.</p>
+               <p>If this Rich <hi>Cordial</hi> be conſtantly taken for ſome
+conſiderable time, it certainly cures the <hi>GO<g ref="char:V">Ʋ</g>T</hi> in thoſe that
+have been long tormented therewith; in others it ſtifles it as it were in the
+Birth, extracting from<pb n="3" facs="tcp:133242:3"/>all parts of the Body, thoſe crude
+and viſcous Humours, which may well be called the very Spawn and Nourſher
+thereof, and this has been often verified in many perſons by experience to
+their great ſatisfaction, it alſo frees the Joynts of all Diſeaſes
+incident unto them, to admiration; and infallibly expels clotted and putrified
+blood or corrupt matter by Stool and Urine, and thereby many internal
+Diſeaſes have been cured, as <hi>Impoſthumations</hi> in the
+<hi>Kidneys</hi> or inward parts, <hi>
+                     <g ref="char:V">Ʋ</g>lcers</hi> therein, or in the
+<hi>Bladder, Surfeits</hi> of many years ſtanding, or dangerous
+<hi>Impedi<g ref="char:EOLhyphen"/>ments</hi> occaſioned by inward cold, which otherwiſe might have
+ended in Death; and be aſſured there is no <hi>Medicament</hi> in the World
+comparable unto it in carrying off the dangerous effects of Drinking and
+Debauche<g ref="char:EOLhyphen"/>ry; for it immediately ſettles the Brain and Stomach, ſweetens the
+Breath, which will be ſtrongly tainted thereby, and procure a good Appetite
+It alſo brings away the <hi>Stone</hi> or <hi>Cravel</hi> by degrees, either
+in <hi>Bladder</hi> or <hi>Kidneys,</hi> to a Miracle; nor is there a better or
+more effectu<g ref="char:EOLhyphen"/>al Remedy to be had; for firſt it diſſolves the Stone, and
+then expels it into Sand as fine as Flower, in the Urine; and not only ſo,
+but it total<g ref="char:EOLhyphen"/>ly deſtroys the Matter or Humour, which is the original cauſe
+thereof. This Famous <hi>Elixir,</hi> never fails to repair or reſtore the
+decayed or wa<g ref="char:EOLhyphen"/>ſting <hi>Kidneys</hi> of Men or Women, and it certainly
+cleanſeth both thoſe, and the <hi>Reins</hi> alſo of all Putrefaction and
+Imperfections whatſoever, and thereby creates a free and wholſom
+paſſage of Urine.</p>
+               <p>It is ſingularly prevalent againſt the <hi>Kings-Evil,
+Jaundice, Dropſy,</hi> and <hi>Scurvey;</hi> and 'tis a moſt ſure Remedy
+againſt the <hi>Cholick,</hi> or <hi>Gri<g ref="char:EOLhyphen"/>ping</hi> of the <hi>Guts;</hi> and
+<hi>Bloody-Flux</hi> in young or old; it ſtops Vomiting to admiration. Alſo
+this incomparable <hi>Elixir of Life,</hi> is ſo great a Friend to the Female
+Sex, that they cannot deſire a greater, as relating to Health, which by all
+rationall perſons is (or ought to be) eſteem'd above all the Wealth in the
+World. It infallibly cures them of all unhappy Obſtructions in Body, and
+thereby makes them capable of Conception.</p>
+               <p>'Tis a certain Remedy againſt the <hi>Green-ſickneſs</hi>
+of all ſorts, and ſup<g ref="char:EOLhyphen"/>ports <hi>Nature</hi> in her priſtine Strength and
+Vigour, procures a good Com<g ref="char:EOLhyphen"/>plexion, ſweetens the Blood, and in fine puts the
+body into a very ſound and healthful poſture, as can in reaſon be
+deſired.</p>
+               <p>Moreover, it is moſt admirable in killing the <hi>Worms</hi>
+of all kinds, in young or old, as has been experienced by Thouſands to their
+great com<g ref="char:EOLhyphen"/>fort: and it ſpeedily (and no leſs effectually) frees the
+<hi>Liver</hi> and <hi>Spleen</hi> from all Obſtructions, and thereby cures
+the <hi>Fits</hi> of the <hi>Mother</hi> and <hi>Spleen,
+Falling-ſickneſs,</hi> and all other <hi>Fits;</hi> It is a moſt
+excellent <hi>Medi<g ref="char:EOLhyphen"/>cine</hi> for <hi>Nurſes,</hi> for it cleanſes and
+throughly purifies the Blood, and thence proceeds good and wholſom Milk, and
+conſequently healthy Children.</p>
+               <p>
+                  <pb n="4" facs="tcp:133242:4"/>This <hi>Elixir of Life</hi> never fails in
+curing the <hi>Rickets</hi> in Children, as alſo the <hi>Chin-Cough,</hi> by
+opening the paſſages, it ſtrengthens, cleanſeth and heals, and carries
+off thoſe ſharp Humours that occaſion the ſame.</p>
+               <p>It is moſt excellent in the alleviating the <hi>Burning
+heat</hi> in the <hi>Parlms of the Hands</hi> or <hi>Soles of the Feet,</hi>
+for by a due application hereof, it gives the Patient convenient refreſhment,
+and is ſo friendly to nature, that it rarely fails to take away the cauſe
+of a Diſtemper, and then it follows moſt certainly that the effects muſt
+ceaſe.</p>
+               <p>It cleanſeth the Spermatick Veſſels of all crude Seed and
+Matter, and maketh the body lively and fit for Generation, and by that means
+hel<g ref="char:EOLhyphen"/>peth <hi>Barrenneſs</hi> It alſo expels Poyſon, and is very effectual
+in rooting out the cauſe of all <hi>Agues,</hi> and <hi>Feavers;</hi> and is
+not only an Antidote, but a moſt excellent <hi>Cordial,</hi> in that
+Infectious and Mortal Diſeaſe of the <hi>Plague,</hi> from which, <hi>Good
+Lord deliver us.</hi>
+               </p>
+               <p>This incomparable <hi>Elixir</hi> is more pretious than Gold,
+and will cer<g ref="char:EOLhyphen"/>tainly (by Gods aſſiſtance) preſerve life in the
+greateſt danger; there<g ref="char:EOLhyphen"/>fore let none ſpoil its Operation in uſing their
+bodies to other Phyſick, if a ſick perſon be not doomed to Death, or his
+life by Divine Permiſſion not yet Terminated, no better <hi>Medicament</hi>
+need be adminiſtred, and whoever uſes themſelves to this <hi>Elixir,</hi>
+will very rarely have the <hi>Small Pox</hi> or <hi>Meoſles</hi>
+               </p>
+               <p>It is a moſt excellent Medicine for thoſe that go long
+Voyages to Sea, and preſerves, as well as cures, thoſe which are afflicted
+with the <hi>Scur<g ref="char:EOLhyphen"/>vey,</hi> and 'tis no leſs excellent for all perſons that
+in the Summer time frequently drink <hi>Mineral Waters,</hi> for it carries off
+the Dregs and Fecies that are uſally left, and too often of very dangerous
+conſequence.</p>
+               <p>The World would undoubtedly put a high value upon this
+<hi>Elixir,</hi> did they but know its admirable Vertues, in purifying and
+ſweetning the whole Maſs of Blood, and conſequently fortifying the
+Spirits, and there<g ref="char:EOLhyphen"/>by put the whole body in ſo ſound and healthful a
+condition, that few Diſeaſes ſhall be able to aſſault or offend it,
+ſince moſt Diſtempers muſt certainly vail (if Life be not terminated by
+God Almighty) to its inno<g ref="char:EOLhyphen"/>cent, but prevalent Vertue and Operation.</p>
+            </div>
+            <div type="directions">
+               <head>Directions for the Adminiſtration of this <hi>Great Elixir
+of Life.</hi>
+               </head>
+               <p>THe Doſe muſt be given thus, (conſideration being had to
+the age and ſtrength of the Patient) from the age of twenty and upwards, no
+perſon need take any more than three or four ſpoonfuls at moſt, except it
+be in very ſtrong Robuſt bodies, who are naturally Coſtive; but in bodies
+of a more tender nature, they may being with two ſpoonfuls, or
+<pb n="5" facs="tcp:133242:4"/>leſs if they pleaſe; but it muſt be taken at night
+going to bed, be it two, three, or four ſpoonfuls, and the ſame quantity
+muſt be taken alſo the next Morning. The manner of its Operation will be as
+it finds cauſe, in ſome it will work in ſix hours, in others in eight or
+ten, according as Humours abound, and the body is afflicted with different
+Diſtempers. this <hi>Cordial</hi> works frequently by Stool Urine and Sweat,
+but never by Vomit; 'tis a Medicine of ſearching nature, and thereby expels
+thoſe occult Maladies which are deſtructive in the end to all humane kind,
+nor is like to other Purging Medicines which uſually leave an uneaſy
+bin<g ref="char:EOLhyphen"/>ding or aſtringent quality behind, but 'tis in reality of a
+<hi>Balſamick</hi> na<g ref="char:EOLhyphen"/>ture, that heals and ſtrengthens ſo accurately,
+that it leaves the body in a moſt excellent vigorous condition to
+adminiſtration. Children in the Month may take it thus, <hi>viz</hi> ſix,
+eight, or ten drops in any diſtill'd Wa<g ref="char:EOLhyphen"/>ter as ſhall be thought fit, and as
+the Infant, grows on from one month old to twelve, you may encreaſe your
+drops (as reaſon and diſcretion will direct) till it amounts to half a
+ſpoonful, and then alſo qualify as aforeſaid, and to Children of two
+years old, give them one moderate ſpoonful, and to thoſe of four years old,
+a ſpoonful and a half, for thoſe of ſeven years of age, two ſpoonfuls,
+and for ſuch as are older, uſe your diſcretion.</p>
+               <p>All perſons that accuſtom themſelves to the uſe of this
+<hi>Cordial-drink,</hi> will from its firſt doſe be very ſenſible of
+its ſtrengthening quality it leaves behind, and ſo gradually increaſes or
+augment the ſame, till by Gods aſſiſtance an infallible cure be
+perfected.</p>
+               <p>For all ſudden Indiſpoſitions, or Cold taken, uſe this
+<hi>Elixir</hi> for three Mornings and three Nights together, and by the
+bleſſing of God, it will very rarely fail to perform a cure, let the Malady
+be what it will; but for old Diſtempers that have been habitual and continue
+inveterate, no perſon can reaſonably expect that a ſmall quantity
+ſhould effect a cure; but having followed the aforeſaid Directions, let the
+perſon take two ſpoonfuls at Night, and the ſame the next Morning for
+eight or ten days, after which reſt a week from taking any more, that nature
+may receive the undoubted benefit intended by this admirable <hi>Cordial;</hi>
+in any fits give a large doſe.</p>
+               <p>
+                  <hi>Note,</hi> That the firſt two or three days doſes, do
+but ſtir up the Hu<g ref="char:EOLhyphen"/>mours, which are afterwards by a continuation thereof,
+moſt happily carryed off; and the Diſeaſe (by Gods bleſſing upon the
+means) per<g ref="char:EOLhyphen"/>fectly cured, and Health reſtored, to the great joy of the Patient
+that long languiſhed under the malignancy of his Diſtemper.</p>
+               <p>Now in the <hi>Griping</hi> of the <hi>Guts,</hi> according to
+the ſtrength of the Pa<g ref="char:EOLhyphen"/>tient, may be taken four or five ſpoonfuls, leſs
+or more, as cauſe requires,<pb n="6" facs="tcp:133242:5"/>and it muſt be repeated again
+in five or ſix hours, and the ſame again the third time, if need require,
+and you not doubt of a cure.</p>
+               <p>This <hi>Elixir</hi> is very excellent for ſuch perſons that
+are weak and <hi>Con<g ref="char:EOLhyphen"/>ſumptive,</hi> and for ſuch alſo that have a weak
+Digeſtion, for it very much comforts and ſtrengthens the Stomach, as is
+before expreſt; and in order to this, the Patient may take a ſpoonful
+before Dinner, and ano<g ref="char:EOLhyphen"/>ther after a few days, in the performance whereof the
+Stomach will be ſo well cleanſed and ſtrengthned, that of neceſſity
+the Patient will have a moſt excellent Appetite: Take the ſame quantity
+aforeſaid in an old <hi>Ptiſick-Cough,</hi> either before the fit, or
+after.</p>
+               <p>
+                  <hi>Note,</hi> Likewiſe, that this moſt excellent
+<hi>Elixir</hi> of Life, doth far ex<g ref="char:EOLhyphen"/>ceed all <hi>Cordial-Drinks,</hi> Waters
+or Sweating Medicines whatever, for they cauſe great weakning Sweats, and
+fails in carrying off the groſſer matter, but this <hi>Cordial</hi> expels
+much of the peccant Humour by a kind of Tranſpiration or breathing through
+the Pores, and laſtly evacuates the groſſer matter from the very Center
+of the Body, to the great comfort and ſatisfaction of the Patient.</p>
+               <p>And let me adviſe all perſons for their own good, as they
+expect the benefit of this <hi>Elixir,</hi> to be very exact and careful in
+following theſe full Directions.</p>
+               <p>And laſtly obſerve, that it may be taken in a ſmall
+quantity at any time of the day, as an Antidote to prevent Diſeaſes, for
+'twill be no hindrance to buſineſs, nor need it be ſeconded with Broth or
+Poſſet-drink, as other Purging Phyſick is: It is ſafe for all ages,
+perſons, and Seaſons, in the hotteſt Summer and coldeſt Winter, when
+critical Di<g ref="char:EOLhyphen"/>ſeaſes reign moſt, and other Phyſick cannot be ſafely,
+then may this.</p>
+               <p>In all fits give a large Doſe. It has been found by experience
+to be a moſt incomparable Remedy in the higheſt <hi>Feaver,</hi> even when
+they Rave: It may be taken at any time, according to the perſons ſtrength,
+for it immediately quiets the Spirits, and cheers and comforts them; and at the
+ſame time ſtrengthens the Heart, and drives out the orginal cauſe by
+Sweating and by Stool; ſo that in few days the perſon will be re<g ref="char:EOLhyphen"/>freſhed,
+and the <hi>Feaver</hi> abated to a miracle: They muſt apply it two or three
+times, or as there is occaſion; this has in five or ſix hours in<g ref="char:EOLhyphen"/>fallibly
+cured many perſons, as is found by daily experience, which no reaſonable
+perſon can deny.</p>
+               <p>This great <hi>Cordial</hi> comfortably cleanſeth the Bodies
+of Women after Child-bearing; and it alſo effectually cleanſeth the bodies
+of all perſons after the <hi>Small-Pox,</hi> or <hi>Meaſles,</hi> and
+carries off all Dregs and poyſo<g ref="char:EOLhyphen"/>nous blood which the Diſtemper has left
+behind: It is likewiſe good for thoſe that are well, to take two or three
+Bottles of it at Spring and<pb n="7" facs="tcp:133242:5"/>Fall, by the way of prevention;
+for <hi>note,</hi> That all violent Purges fail in doing what this
+<hi>Cordial</hi> daily does, for their great ſpeedy paſſing through the
+Body, generally leaves the ill effects of the Diſtemper behind.</p>
+            </div>
+         </div>
+      </body>
+      <back>
+         <div type="list_of_sellers">
+            <head>This Rare <hi>ELIXIR</hi> for the Publick good, and the benefit
+of the Afflicted, is expoſed to Sale, at the ſeveral places
+following.</head>
+            <list>
+               <item>MRs. <hi>Andrews, Pewterer,</hi> at the end of
+<hi>Gardners-lane</hi> in <hi>King-ſtreet Westminſter.</hi>
+               </item>
+               <item>Mr. <hi>James Porter, Barbar,</hi> at his Shop in St.
+<hi>James's-Market.</hi>
+               </item>
+               <item>Mr. <hi>Richard Mills,</hi> at the Sign of the
+<hi>Golden-Faulkon,</hi> in the <hi>Pall-Mall.</hi>
+               </item>
+               <item>Mr. <hi>Thomas Potter, Barber,</hi> at his Shop at St.
+<hi>James's Gate.</hi>
+               </item>
+               <item>Mr. <hi>Richard Burton,</hi> at the Sign of the
+<hi>Worlds-End</hi> in <hi>Knights-bridge.</hi>
+               </item>
+               <item>Mr. <hi>Francis Hopkins,</hi> at the Sign of the
+<hi>Gentleman-Archer,</hi> in <hi>Compton-ſtreet</hi> in
+<hi>Soho-Fields.</hi>
+               </item>
+               <item>Mr. <hi>Bartlet, Distiller,</hi> at the Sign of the
+<hi>Turks-Head</hi> in <hi>Bedford-ſtreet Covent Garden.</hi>
+               </item>
+               <item>Mr, <hi>Parker,</hi> at the Sign of the <hi>Bulls-Head</hi>
+in <hi>King-ſtreet Bloomsbury.</hi>
+               </item>
+               <item>Mr. <hi>Christopher Conyers, Barber,</hi> in the ſame
+Street.</item>
+               <item>Mr. <hi>John Vallers, Shoe-maker,</hi> next door the
+<hi>Blackmoors-head</hi> in <hi>Exeter-ſtreet</hi> near
+<hi>Covent-Garden.</hi>
+               </item>
+               <item>
+                  <hi>Robert Good, Comb-maker,</hi> at the Sign of the
+<hi>Box-Comb</hi> near <hi>Turn-Stile</hi> in <hi>Holbourn.</hi>
+               </item>
+               <item>Mr. <hi>John Peark, Peruke-maker,</hi> at the Sign of the
+<hi>Golden-ball,</hi> over a<g ref="char:EOLhyphen"/>gainſt St. <hi>Clements-Church</hi> in the
+<hi>Strand.</hi>
+               </item>
+               <item>The Widow <hi>Johnſons Coffee-houſe,</hi> over againſt
+the new Church in <hi>Ger<g ref="char:EOLhyphen"/>man-ſtreet.</hi>
+               </item>
+               <item>Mr. <hi>Haſelwood,</hi> a <hi>Tobacconist,</hi> at the
+<hi>Golden Sugar-Loaf</hi> in <hi>Long-acre:</hi>
+               </item>
+               <item>Mr. <hi>Wates,</hi> next door to the Sign of the <hi>Sun</hi>
+in <hi>Peter-ſtreet, Westmin<g ref="char:EOLhyphen"/>ſter.</hi>
+               </item>
+               <item>Mr. <hi>Chantrel, Milliner,</hi> at the
+<hi>Golden-Bodies</hi> in great <hi>Turn-ſtile-Alley</hi> in
+<hi>Holbourn.</hi>
+               </item>
+               <item>Mrs. <hi>Young,</hi> in <hi>Middle-Row</hi> in
+<hi>Old-ſtreet,</hi> at the Sign of the <hi>Dripping-Pan.</hi>
+               </item>
+               <item>Mr. <hi>William Hawkins,</hi> at the Sign of the
+<hi>Wheat-ſheaf,</hi> in <hi>Hatton-Garden.</hi>
+               </item>
+               <item>Mr. <hi>Yeoman, Milliner,</hi> next door to the Sign of the
+<hi>Feathers</hi> in <hi>Clare-Mar<g ref="char:EOLhyphen"/>ket,</hi> near <hi>Clements-Inn
+Back-gate.</hi>
+               </item>
+               <item>Mr. <hi>Robert Clave,</hi> at the Sign of the <hi>Three
+Compaſſes</hi> near the <hi>Old-Swan</hi> by <hi>London-Bridge.</hi>
+               </item>
+               <item>
+                  <pb n="8" facs="tcp:133242:6" rendition="simple:additions"/>Mrs. <hi>Fuller,</hi> at the lower
+end of <hi>Brook-ſtreet,</hi> at the Sign of the <hi>Two Pe<g ref="char:EOLhyphen"/>rukes</hi> and
+<hi>Crown</hi> in <hi>Ratcliff.</hi>
+               </item>
+               <item>Mr. <hi>Thomas Stroud</hi>'s <hi>Coffee-houſe,</hi> near
+St. <hi>James's Gate.</hi>
+               </item>
+               <item>Mr. <hi>Peter Andrews,</hi> a <hi>Cane-man,</hi> at the
+<hi>Gray-Hound,</hi> near <hi>Fleet-bridge.</hi>
+               </item>
+               <item>Mr. <hi>Nicholas Hicks, Broker,</hi> at the Sign of the
+<hi>Hand</hi> and <hi>Lock</hi> of <hi>Hair</hi> at the upper end of
+<hi>Middle-Row</hi> in <hi>Holbourn.</hi>
+               </item>
+               <item>Mr. <hi>Thomas Prince, Grocer,</hi> at the Sign of the
+<hi>Three Sugar-Loaves</hi> in <hi>Hatton Garden.</hi>
+               </item>
+               <item>At <hi>Neds Coffee-Houſe</hi> in the <hi>Pav'd Alley</hi>
+in <hi>Austin-Fryers</hi> by <hi>Broad-ſtreet.</hi>
+               </item>
+               <item>Mrs <hi>Mary Beck, Grocer,</hi> in <hi>Good-mans Yard</hi> in
+the <hi>Minories.</hi>
+               </item>
+               <item>Mr. <hi>Stephen Orchard,</hi> Slop-ſeller at <hi>Shadwel
+dock.</hi>
+               </item>
+               <item>Mr. <hi>Edward Hews</hi> at the Sign of the <hi>Dog</hi> in
+<hi>Stone-ſtreet,</hi> near St. <hi>Mario<g ref="char:EOLhyphen"/>vers-Stairs.</hi>
+               </item>
+               <item>Mr. <hi>William Kean,</hi> at the Sign of the
+<hi>Three-Faulkons</hi> at the hither end of <hi>Newington</hi>
+               </item>
+               <item>Mr. <hi>Nicholas Pool, Faulconer</hi> at the <hi>Faulkon</hi>
+in <hi>Twitnam.</hi>
+               </item>
+               <item>Mr. <hi>John Wiſe, Comb-maker,</hi> in
+<hi>Thriſt-ſtreet</hi> in <hi>Soho-Fields</hi>
+               </item>
+               <item>Mr. <hi>Brumigham,</hi> in <hi>Spittlefields</hi> near
+<hi>Biſhopſgate-ſtreet.</hi>
+               </item>
+               <item>Mrs. <hi>Ellots,</hi> the <hi>Gloceſterſhire
+Coffee-houſe,</hi> at the lower end of the <hi>Old-Jury.</hi>
+               </item>
+               <item>Mr. <hi>James Norcock, Snuff-maker,</hi> and
+<hi>Perfumer,</hi> at the <hi>Jeſſaminio-Tree</hi> and
+<hi>Snuffing-Gentleman</hi> next the <hi>King-Head-Tavern</hi> in
+<hi>Fleet-ſtreet,</hi> near <hi>Chancery-lane,</hi>
+               </item>
+               <item>Mr. <hi>Henry Coley,</hi> at his houſe in
+<hi>Baldwins-Court,</hi> over againſt the <hi>Old Hole in the Wall,</hi> in
+<hi>Baldwins-Gardens.</hi>
+               </item>
+               <item>Mr. <hi>Richard Jones, Bookseller,</hi> at the Sign of the
+<hi>White Horſe</hi> in <hi>Little-Britain.</hi>
+               </item>
+               <item>Mr. <hi>Nathaniel Thompſon,</hi> at the entrance into the
+<hi>Old-Sping-Garden,</hi> near <hi>Charing-Croſs.</hi>
+               </item>
+            </list>
+            <p>The Bottle contains half a pint, price 2 <abbr>s</abbr> 6
+<abbr>d.</abbr>
+            </p>
+            <pb facs="tcp:133242:6"/>
+            <pb facs="tcp:133242:7"/>
+            <pb facs="tcp:133242:7" rendition="simple:additions"/>
+         </div>
+      </back>
+   </text>
+</TEI>
